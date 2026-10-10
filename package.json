@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "images": "node scripts/optimize-images.mjs",
+    "build": "node scripts/build.mjs",
     "serve": "node scripts/serve.mjs"
   },
   "devDependencies": {
