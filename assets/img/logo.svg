@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="RAJA TYPE WRITER WORKS brand mark">
+  <circle cx="32" cy="32" r="31" fill="#c9a45c"/>
+  <circle cx="32" cy="32" r="28.5" fill="#0f1f3d"/>
+  <circle cx="32" cy="32" r="24" fill="none" stroke="#c9a45c" stroke-opacity=".45" stroke-width="1"/>
+  <text x="32" y="42.5" text-anchor="middle" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" fill="#ffffff">R</text>
+  <rect x="22" y="47" width="20" height="2" rx="1" fill="#8b1e2d"/>
+</svg>
